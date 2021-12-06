@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/909043132203667497)](https://discord.com/users/909043132203667497)
+
 
 
 <!---
